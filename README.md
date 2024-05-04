@@ -25,7 +25,9 @@ Selain menggunakan background warna, pada html juga dapat menambahkan background
 <h2>Menambahkan Link Tautan</h2>
 <p>Link atau Hyperlink merupakan elemen dalam suatu HTML yang berfungsi untuk menghubungkan suatu halaman web ke halaman web yang lain. Ketika elemen link di klik maka nanti akan membuka halaman lain sesuai alamat URL yang diberikan.</p>
 <h1>CSS</h1>
-<p></p>
+<p>CSS (Cascading Style Sheet) dapat menerapkan suatu format ketika lebih
+dari satu style berlaku. Misalkan kita menginginkan semua paragraph harus memiliki font biru, namun secara khusus menginginkan satu kata agar berwarna
+merah./p>
 
 
    
