@@ -12,7 +12,7 @@ HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman 
 </p>
 <p>Berikut Merupakan script program dan output dalam membuat dokumen html:</p>
 ![Screenshot 2024-05-04 103923](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/dc02b717-8023-4492-b935-15430da8c62d)
-![Screenshot 2024-05-04 094504](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/239baa1a-ca45-43d1-9530-b52c667ec045)
+
 
 
 <p>Menampilkan Komentar<p>
