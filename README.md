@@ -11,7 +11,8 @@ HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman 
 <p>Dokumen HTML dimulai dengan perintah awal <html>, kemudian <head> dan <title>. Dalam bagian <title> berisi judul yang akan ditampilkan. Bagian kedua html dimulai dengan adanya perintah<body> dan diakhiri dengan</body> dalam body berisi tentang isi yang akan ditampilkan oleh dokumen yang dibuat. Kemudian ditutup dengan perintah </html> pada bagian akhir.
 </p>
 <p>Berikut Merupakan script program dan output dalam membuat dokumen html:</p>
-![Screenshot 2024-05-04 103923](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/dc02b717-8023-4492-b935-15430da8c62d)
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/198238e6-a89e-44a8-8e76-a6a0fb50503e)
+
 
 
 
