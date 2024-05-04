@@ -18,8 +18,13 @@ Output
 
 <p>Menampilkan Komentar</p>
 Untuk menampilkan komentar agar dapat memberikan kemudahan bagi orang lain yang akan membaca script program yang telah dibuat. Penulisan komentar dalam program HTML datap diawali dengan menggunakan tanda <!---- isi komentar program --->
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/5db46b39-99ea-4372-b7ea-967acb74ea88)
+Output
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/b3a8a88f-58e3-4930-80c6-843511bee4fe)
+
 <p>Menambahkan Background</p>
 <p>Pada tampilan HTML dapat ditambahkan background berupa gambar atau warna, untuk menambahkan background pada html berupa background warna dapat dilakukan dengan perintah berikut</p>
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/18796b51-a5c6-48b4-95f9-4ab457c94b51)
 
 <p>Selain menggunakan background warna, pada html juga dapat menambahkan background berupa gambar. Berikut merupakan script program penambahan background gambar pada html</p>
 
