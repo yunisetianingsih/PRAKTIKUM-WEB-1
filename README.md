@@ -12,6 +12,7 @@ HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman 
 </p>
 <p>Berikut Merupakan script program dan output dalam membuat dokumen html:</p>
 ![Screenshot 2024-05-04 103923](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/dc02b717-8023-4492-b935-15430da8c62d)
+![Screenshot 2024-05-04 094504](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/239baa1a-ca45-43d1-9530-b52c667ec045)
 
 
 <p>Menampilkan Komentar<p>
@@ -24,7 +25,7 @@ Selain menggunakan background warna, pada html juga dapat menambahkan background
 <p>Mengubah Warna Text dan Ukuran Text Judul</p>
 <p>Dalam html ukuran text dan warna text dapat diganti sesuai dengan warna yang diinginkan, dengan cara sebagai berikut.</p>
 <p>Untuk ukuran text judul dalam html terdapat dari beberapa ukuran diantaranya yaitu H1 ( merupakan ukuran yang paling besar) dan H6 ( ukuran yang paling kecil ). Berikut ini script program ukuran text judul</p>
-<h2>Menambahkan Link Tautan</h2>
+<p>Menambahkan Link Tautan</p>
 <p>Link atau Hyperlink merupakan elemen dalam suatu HTML yang berfungsi untuk menghubungkan suatu halaman web ke halaman web yang lain. Ketika elemen link di klik maka nanti akan membuka halaman lain sesuai alamat URL yang diberikan.</p>
 <p>CSS</p>
 <p>CSS (Cascading Style Sheet) dapat menerapkan suatu format ketika lebih
