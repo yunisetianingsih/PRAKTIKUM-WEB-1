@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #2e5472;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #b3ced8;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #2d5a7f;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<h1>Layout</h1>
+<header>
+  <h2>Jakarta</h2>
+  
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="https://id.wikipedia.org/wiki/Kota_Bandung">Bandung</a></li>
+      <li><a href="https://id.wikipedia.org/wiki/Kota_Yogyakarta">Yogyakarta</a></li>
+      <li><a href="https://id.wikipedia.org/wiki/Kota_Makassar">Makasar</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Jakarta</h1>
+    <p>Jakarta, secara resmi bernama Daerah Khusus Ibukota Jakarta atau DKI Jakarta,[8] sebelumnya dikenal sebagai Batavia, adalah ibu kota Indonesia dan sekaligus daerah otonom setingkat provinsi. Jakarta memiliki lima kota administrasi dan satu kabupaten administrasi. </p>
+    <p> Jakarta terletak di pesisir bagian barat laut Pulau Jawa Jakarta juga mempunyai julukan The Big Durian karena dianggap kota yang sebanding dengan Kota New York (Big Apple) di Amerika Serikat</p>
+  </article>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
+</html>
+
