@@ -4,23 +4,23 @@ Pengertian website secara umum adalah kumpulan halaman web yang saling terkait d
 HTML adalah singkatan dari Hyper Text Markup Language. 
 HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi di dalam sebuah Internet. HTML adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web. HTML saat ini merupakan standar Internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C).
 
-Struktur dasar HTML terdiri atas bagian header dan bagian body
+<p>Struktur dasar HTML terdiri atas bagian header dan bagian body</p>
 •	Bagian Header atau biasa dilambangkan dengan head dalam script program HTML digunakan untuk mendeklarasikan dokumen tersebut
 • Bagian Body atau biasa dilambangkan dengan tulisan <BODY> dalam script digunakan untuk menentukan bagaimana isi dari suatu dokumen yang akan ditampilkan pada browser.
-A. Membuat Dokumen HTML
+<p>A. Membuat Dokumen HTML</p>
 <p>Dokumen HTML dimulai dengan perintah awal html, kemudian head dan title. Dalam bagian title berisi judul yang akan ditampilkan. Bagian kedua html dimulai dengan adanya perintah<body> dan diakhiri dengan bodydalam body berisi tentang isi yang akan ditampilkan oleh dokumen yang dibuat. Kemudian ditutup dengan perintah  pada bagian akhir.
 
 Berikut Merupakan script program dan output dalam membuat dokumen html:</p>
 ![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/633949f3-6e53-4e4a-a602-b62575756f70)
 
-Menampilkan Komentar
+<p>enampilkan Komentar</p>
 Untuk menampilkan komentar agar dapat memberikan kemudahan bagi orang lain yang akan membaca script program yang telah dibuat. Penulisan komentar dalam program HTML datap diawali dengan menggunakan tanda <!---- isi komentar program --->
 <p>Menambahkan Background</p>
 <p>Pada tampilan HTML dapat ditambahkan background berupa gambar atau warna, untuk menambahkan background pada html berupa background warna dapat dilakukan dengan perintah berikut</p>
 
 <p>Selain menggunakan background warna, pada html juga dapat menambahkan background berupa gambar. Berikut merupakan script program penambahan background gambar pada html</p>
 
-Mengubah Warna Text dan Ukuran Text Judul
+<p>Mengubah Warna Text dan Ukuran Text Judul</p>
 <p>Dalam html ukuran text dan warna text dapat diganti sesuai dengan warna yang diinginkan, dengan cara sebagai berikut.</p>
 <p>Untuk ukuran text judul dalam html terdapat dari beberapa ukuran diantaranya yaitu H1 ( merupakan ukuran yang paling besar) dan H6 ( ukuran yang paling kecil ). Berikut ini script program ukuran text judul</p>
 <p>Menambahkan Link Tautan</p>
