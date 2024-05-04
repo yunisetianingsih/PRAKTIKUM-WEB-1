@@ -74,7 +74,7 @@ Output
 ![Screenshot 2024-05-04 125531](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/99a748ec-f574-4314-973d-be09ba53e1ae)
 
 
-##CSS
+## CSS
 <p>CSS (Cascading Style Sheet) dapat menerapkan suatu format ketika lebih
 dari satu style berlaku. Misalkan kita menginginkan semua paragraph harus memiliki font biru, namun secara khusus menginginkan satu kata agar berwarna
 merah./p>
@@ -102,7 +102,7 @@ Output
 ![Screenshot 2024-05-04 125752](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/7c79367e-6b5d-446f-951b-8e452188ea06)
 
 <p>Menambah Background CSS</p>
-<p>Dengan menggunakan CC kita dapat mengatur penggunaan gambar sebagai background pada halaman suatu web</p>
+<p>Dengan menggunakan CSS kita dapat mengatur penggunaan gambar sebagai background pada halaman suatu web</p>
 
 ![Screenshot 2024-05-04 125822](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/2244cd8e-68a8-4f7f-9c02-26b9aea1cbbc)
 
@@ -110,13 +110,21 @@ Output
 
 ![Screenshot 2024-05-04 125834](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/95321cee-f941-4485-93db-09a5a34ac9a1)
 
-##JavaScript
+## JavaScript
 <p>JavaScript adalah bahasa pemrograman yang digunakan developer untuk membuat halaman web yang interaktif.Fungsi utama JavaScript untuk membuat website terlihat menarik dengan konten-kontennya yang dinamis. Konten website yang bisa bergerak dengan otomatis tanpa perlu direload berkali-kali adalah salah satu pengaplikasian JavaScript.</p>
-
+<p>Penulisan JavaScript dapat dilakukan dengan beberapa cara diantaranya yaitu:</p>
+<p>
+1. Cara tersebut merupakan cara penulisan embeded (ditempelkan)
+1. Embed (Kode Javascript ditempel langsung pada HTML. Contoh: yang tadi)
+2. Inline (kode Javascript ditulis pada atribut HTML)
+3. Eksternal (Kode Javascript ditulis terpisah dengan file HTML)
+</p>
 <p>Aritmathic</p>
 
 ![Screenshot 2024-05-04 130149](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/cd76f593-1397-47b4-9cfa-aaae5f2b412f)
+
 Output
+
 ![Screenshot 2024-05-04 130204](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/1f447a86-e5ee-4bc2-8c86-3c955353f65f)
 
 
