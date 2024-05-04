@@ -6,7 +6,7 @@ HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman 
 
 <p>Struktur dasar HTML terdiri atas bagian header dan bagian body</p>
 <p>•	Bagian Header atau biasa dilambangkan dengan head dalam script program HTML digunakan untuk mendeklarasikan dokumen tersebut</p>
-<p></p>• Bagian Body atau biasa dilambangkan dengan tulisan body dalam script digunakan untuk menentukan bagaimana isi dari suatu dokumen yang akan ditampilkan pada browser.</p>
+<p>• Bagian Body atau biasa dilambangkan dengan tulisan body dalam script digunakan untuk menentukan bagaimana isi dari suatu dokumen yang akan ditampilkan pada browser.</p>
 <p>A. Membuat Dokumen HTML</p>
 <p>Dokumen HTML dimulai dengan perintah awal html, kemudian head dan title. Dalam bagian title berisi judul yang akan ditampilkan. Bagian kedua html dimulai dengan adanya perintah body dan diakhiri dengan body alam body berisi tentang isi yang akan ditampilkan oleh dokumen yang dibuat. Kemudian ditutup dengan perintah  pada bagian akhir.
 
@@ -17,28 +17,91 @@ Output
 
 
 <p>Menampilkan Komentar</p>
-Untuk menampilkan komentar agar dapat memberikan kemudahan bagi orang lain yang akan membaca script program yang telah dibuat. Penulisan komentar dalam program HTML datap diawali dengan menggunakan tanda <!---- isi komentar program --->
-![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/5db46b39-99ea-4372-b7ea-967acb74ea88)
+<p>Untuk menampilkan komentar agar dapat memberikan kemudahan bagi orang lain yang akan membaca script program yang telah dibuat.</p>
+
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/f6f5a7ab-2570-4478-9d75-cd598dcc3bfd)
+
 Output
-![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/b3a8a88f-58e3-4930-80c6-843511bee4fe)
+
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/d4f9c5db-12c6-4da2-b90c-f6042e025949)
+
+
 
 <p>Menambahkan Background</p>
 <p>Pada tampilan HTML dapat ditambahkan background berupa gambar atau warna, untuk menambahkan background pada html berupa background warna dapat dilakukan dengan perintah berikut</p>
-![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/18796b51-a5c6-48b4-95f9-4ab457c94b51)
+
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/b71c0bff-73b3-4e99-ad0c-474615085f09)
+
+Output
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/614dabd0-e449-4973-aef3-7f251c2decab)
 
 <p>Selain menggunakan background warna, pada html juga dapat menambahkan background berupa gambar. Berikut merupakan script program penambahan background gambar pada html</p>
 
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/afbd4691-3a97-403b-8afb-e9cb4ef6e551)
+Output
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/3ad5c42c-0798-4217-8aca-a57b24af50e6)
+
 <p>Mengubah Warna Text dan Ukuran Text Judul</p>
 <p>Dalam html ukuran text dan warna text dapat diganti sesuai dengan warna yang diinginkan, dengan cara sebagai berikut.</p>
+
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/baa78ee9-0f3a-4bc0-99c9-d32881b8e30c)
+
+Output
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/b13b47f1-8624-4a52-90e2-49a0792d7c32)
+
 <p>Untuk ukuran text judul dalam html terdapat dari beberapa ukuran diantaranya yaitu H1 ( merupakan ukuran yang paling besar) dan H6 ( ukuran yang paling kecil ). Berikut ini script program ukuran text judul</p>
+
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/8d26ff97-9445-4bcc-b983-f5230a1bcac1)
+
+Output
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/fad1be4d-7514-4116-900c-aebd1ba6ac8e)
+
+
 <p>Menambahkan Link Tautan</p>
 <p>Link atau Hyperlink merupakan elemen dalam suatu HTML yang berfungsi untuk menghubungkan suatu halaman web ke halaman web yang lain. Ketika elemen link di klik maka nanti akan membuka halaman lain sesuai alamat URL yang diberikan.</p>
+
+![Screenshot 2024-05-04 125442](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/f2846a2a-5f21-48df-9b57-ab49692a9330)
+
+Output
+![Screenshot 2024-05-04 125531](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/99a748ec-f574-4314-973d-be09ba53e1ae)
+
+
 <p>CSS</p>
 <p>CSS (Cascading Style Sheet) dapat menerapkan suatu format ketika lebih
 dari satu style berlaku. Misalkan kita menginginkan semua paragraph harus memiliki font biru, namun secara khusus menginginkan satu kata agar berwarna
 merah./p>
+<p>Mengubah Warna Font dengan CSS</p>
+
+![Screenshot 2024-05-04 125714](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/9ff16507-a42e-451f-b6ae-e2ce166b5204)
+ Output
+ ![Screenshot 2024-05-04 125726](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/ef649d09-a1f5-4e9e-9788-b87855b824bd)
+
+<p>Membuat Tombol dengan CSS</p>
+
+![Screenshot 2024-05-04 125739](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/6ecaa4fd-b0ee-4ff8-aac2-c868991e6fc3)
+
+Output
+![Screenshot 2024-05-04 125752](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/7c79367e-6b5d-446f-951b-8e452188ea06)
+
+<p>Menambah Background CSS</p>
+
+![Screenshot 2024-05-04 125822](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/2244cd8e-68a8-4f7f-9c02-26b9aea1cbbc)
+Output
+
+![Screenshot 2024-05-04 125834](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/95321cee-f941-4485-93db-09a5a34ac9a1)
+
 <p>JavaScript</p>
 <p>JavaScript adalah bahasa pemrograman yang digunakan developer untuk membuat halaman web yang interaktif.Fungsi utama JavaScript untuk membuat website terlihat menarik dengan konten-kontennya yang dinamis. Konten website yang bisa bergerak dengan otomatis tanpa perlu direload berkali-kali adalah salah satu pengaplikasian JavaScript.</p>
+<p>Aritmathic</p>
+
+![Screenshot 2024-05-04 130149](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/cd76f593-1397-47b4-9cfa-aaae5f2b412f)
+Output
+![Screenshot 2024-05-04 130204](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/1f447a86-e5ee-4bc2-8c86-3c955353f65f)
+
+
+
+
+
 
 
 
