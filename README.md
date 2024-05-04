@@ -23,8 +23,9 @@ Selain menggunakan background warna, pada html juga dapat menambahkan background
 <p>Dalam html ukuran text dan warna text dapat diganti sesuai dengan warna yang diinginkan, dengan cara sebagai berikut.</p>
 <p>Untuk ukuran text judul dalam html terdapat dari beberapa ukuran diantaranya yaitu H1 ( merupakan ukuran yang paling besar) dan H6 ( ukuran yang paling kecil ). Berikut ini script program ukuran text judul</p>
 <h2>Menambahkan Link Tautan</h2>
+<p>Link atau Hyperlink merupakan elemen dalam suatu HTML yang berfungsi untuk menghubungkan suatu halaman web ke halaman web yang lain. Ketika elemen link di klik maka nanti akan membuka halaman lain sesuai alamat URL yang diberikan.</p>
+<h1>CSS</h1>
 <p></p>
-
 
 
    
