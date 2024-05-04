@@ -1,6 +1,6 @@
 # PRAKTIKUM-WEB-1
 Pengertian website secara umum adalah kumpulan halaman web yang saling terkait dan dapat diakses melalui internet. Halaman web tersebut berisi informasi, seperti teks, gambar, video, atau animasi. Website dapat digunakan untuk berbagai keperluan, seperti bisnis, pendidikan, hiburan, dan lainnya. Dalam Praktikum Pemrograman Web 1 ini membahas tentang penggunaan HTML, CSS, dan JavaScript.
-<p> HTML</p>
+<h1> HTML<h1>
 <p>HTML adalah singkatan dari Hyper Text Markup Language. 
 HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi di dalam sebuah Internet. HTML adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web. HTML saat ini merupakan standar Internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C).
 </p>
