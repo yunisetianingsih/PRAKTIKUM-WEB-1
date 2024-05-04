@@ -81,7 +81,7 @@ merah./p>
  <p>CSS dapat ditautkan dengan beberapa cara</p>
 <p>1. CSS Style Internal diload setiap kali website di-refresh, dan kekurangannya adalah waktu loading semakin lama. CSS style yang sama pun tidak dapat digunakan di halaman lain karena sudah aktif terlebih dulu di suatu halaman.</p>
 <p>2. External merupakan CSS style yang paling mudah dan tidak menyulitkan. Semuanya dilakukan secara eksternal pada file .css. Styling dilakukan di file terpisah, lalu terapkan CSS ke halaman mana pun yang Anda inginkan. Sayangnya, CSS Style External juga memperlama waktu loading.</p>
-<p>3. SS Style Inline menggunakan elemen spesifik yang memuat tag <style>. Karena setiap komponen harus di-stylize, maka Inline bukan metode yang tepat jika Anda ingin menggunakan CSS dengan cepat.</p>
+<p>3. CSS Style Inline menggunakan elemen spesifik yang memuat tag <style>. Karena setiap komponen harus di-stylize, maka Inline bukan metode yang tepat jika Anda ingin menggunakan CSS dengan cepat.</p>
  
 <p>Mengubah Warna Font dengan CSS</p>
 <p>Dengan menggunakan CSS kita dapat mengubah warna suatu font, selain menggubah warna kita juga dapat mengubah ukuran dari sebuatu font, dan jenis font yang akan digunakan</p>
