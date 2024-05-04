@@ -5,15 +5,18 @@ HTML adalah singkatan dari Hyper Text Markup Language.
 HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi di dalam sebuah Internet. HTML adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web. HTML saat ini merupakan standar Internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C).
 
 <p>Struktur dasar HTML terdiri atas bagian header dan bagian body</p>
-•	Bagian Header atau biasa dilambangkan dengan head dalam script program HTML digunakan untuk mendeklarasikan dokumen tersebut
-• Bagian Body atau biasa dilambangkan dengan tulisan <BODY> dalam script digunakan untuk menentukan bagaimana isi dari suatu dokumen yang akan ditampilkan pada browser.
+<p>•	Bagian Header atau biasa dilambangkan dengan head dalam script program HTML digunakan untuk mendeklarasikan dokumen tersebut</p>
+<p></p>• Bagian Body atau biasa dilambangkan dengan tulisan body dalam script digunakan untuk menentukan bagaimana isi dari suatu dokumen yang akan ditampilkan pada browser.</p>
 <p>A. Membuat Dokumen HTML</p>
-<p>Dokumen HTML dimulai dengan perintah awal html, kemudian head dan title. Dalam bagian title berisi judul yang akan ditampilkan. Bagian kedua html dimulai dengan adanya perintah<body> dan diakhiri dengan bodydalam body berisi tentang isi yang akan ditampilkan oleh dokumen yang dibuat. Kemudian ditutup dengan perintah  pada bagian akhir.
+<p>Dokumen HTML dimulai dengan perintah awal html, kemudian head dan title. Dalam bagian title berisi judul yang akan ditampilkan. Bagian kedua html dimulai dengan adanya perintah body dan diakhiri dengan body alam body berisi tentang isi yang akan ditampilkan oleh dokumen yang dibuat. Kemudian ditutup dengan perintah  pada bagian akhir.
 
 Berikut Merupakan script program dan output dalam membuat dokumen html:</p>
 ![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/633949f3-6e53-4e4a-a602-b62575756f70)
+Output
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/254ef3ed-83ad-434b-9133-399f44c76dfc)
 
-<p>enampilkan Komentar</p>
+
+<p>Menampilkan Komentar</p>
 Untuk menampilkan komentar agar dapat memberikan kemudahan bagi orang lain yang akan membaca script program yang telah dibuat. Penulisan komentar dalam program HTML datap diawali dengan menggunakan tanda <!---- isi komentar program --->
 <p>Menambahkan Background</p>
 <p>Pada tampilan HTML dapat ditambahkan background berupa gambar atau warna, untuk menambahkan background pada html berupa background warna dapat dilakukan dengan perintah berikut</p>
