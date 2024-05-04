@@ -5,13 +5,16 @@ Pengertian website secara umum adalah kumpulan halaman web yang saling terkait d
 HTML merupakan sebuah Bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi di dalam sebuah Internet. HTML adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web. HTML saat ini merupakan standar Internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C).
 </p>
 <p>Struktur dasar HTML terdiri atas bagian header dan bagian body</p>
-<p>•	Bagian Header atau biasa dilambangkan dengan tulisan <HEAD> dalam script program HTML digunakan untuk mendeklarasikan dokumen tersebut.</p>
+<p>•	Bagian Header atau biasa dilambangkan dengan head dalam script program HTML digunakan untuk mendeklarasikan dokumen tersebut.</p>
 <p>• Bagian Body atau biasa dilambangkan dengan tulisan <BODY> dalam script digunakan untuk menentukan bagaimana isi dari suatu dokumen yang akan ditampilkan pada browser.</p>
 <p>A. Membuat Dokumen HTML</p>
-<p>Dokumen HTML dimulai dengan perintah awal <html>, kemudian <head> dan <title>. Dalam bagian <title> berisi judul yang akan ditampilkan. Bagian kedua html dimulai dengan adanya perintah<body> dan diakhiri dengan</body> dalam body berisi tentang isi yang akan ditampilkan oleh dokumen yang dibuat. Kemudian ditutup dengan perintah </html> pada bagian akhir.
+<p>Dokumen HTML dimulai dengan perintah awal html, kemudian head dan title. Dalam bagian title berisi judul yang akan ditampilkan. Bagian kedua html dimulai dengan adanya perintah<body> dan diakhiri dengan bodydalam body berisi tentang isi yang akan ditampilkan oleh dokumen yang dibuat. Kemudian ditutup dengan perintah  pada bagian akhir.
 </p>
 <p>Berikut Merupakan script program dan output dalam membuat dokumen html:</p>
-![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/198238e6-a89e-44a8-8e76-a6a0fb50503e)
+![image](https://github.com/yunisetianingsih/PRAKTIKUM-WEB-1/assets/168643303/633949f3-6e53-4e4a-a602-b62575756f70)
+
+
+
 
 
 
